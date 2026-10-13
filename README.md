@@ -80,6 +80,21 @@ Business Insight: Large pizzas appeared most frequently according to this query'
 
 Note: This result counts order-detail records, not the total number of pizza units sold by size.
 
+6. During which hour of the day were the most orders placed?
+
+Finding: 12:00 PM had the highest visible order count, with 2,520 orders.
+
+Other notable results included:
+
+1:00 PM — 2,455 orders
+
+6:00 PM — 2,399 orders
+
+5:00 PM — 2,336 orders
+
+7:00 PM — 2,009 orders
+
+Business Insight: The results indicate strong order activity around lunchtime and early evening. These periods can be investigated further for staffing and operational planning.
 
 
 
