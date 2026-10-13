@@ -38,7 +38,11 @@ Finding: A total of 21,350 orders were placed.
 
 Business Insight: The total number of orders provides a baseline for understanding the business's sales activity.
 
+2. What was the total revenue generated from pizza sales?
 
+Finding: The total revenue was 817,860.05 in the dataset's currency units.
+
+Business Insight: Total revenue provides an overview of sales performance before accounting for business costs and expenses.
 
 
 
