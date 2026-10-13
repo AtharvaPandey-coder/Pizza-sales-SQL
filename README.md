@@ -102,7 +102,19 @@ Finding: The query returned an average of 138.47 pizzas per day.
 
 Business Insight: This average provides a daily demand benchmark that can support inventory and preparation planning.
 
+8. How many pizza types were available in each category?
 
+Findings:
+
+Supreme: 9 pizza types
+
+Veggie: 9 pizza types
+
+Classic: 8 pizza types
+
+Chicken: 6 pizza types
+
+Business Insight: Supreme and Veggie had the highest number of pizza types, with 9 each, while Chicken had the fewest, with 6 pizza types.
 
 
 
