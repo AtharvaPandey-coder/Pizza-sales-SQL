@@ -133,6 +133,17 @@ Finding: The Greek Pizza had the highest listed price at 35.95.
 
 Business Insight: Identifying the highest-priced pizza helps distinguish premium-priced products from the rest of the menu. A higher price does not necessarily mean higher total revenue.
 
+11. Which were the top three pizza types by revenue in each pizza category?
+
+Findings — Chicken Category:
+
+The Thai Chicken Pizza — 43,434.25
+
+The Barbecue Chicken Pizza — 42,768.00
+
+The California Chicken Pizza — 41,409.50
+
+Business Insight: Within the Chicken category, The Thai Chicken Pizza generated the highest revenue, followed by The Barbecue Chicken Pizza and The California Chicken Pizza. This analysis helps identify the top-performing pizza types within each category and supports category-specific business decisions.
 
 
 
