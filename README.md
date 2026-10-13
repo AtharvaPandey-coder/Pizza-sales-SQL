@@ -54,6 +54,8 @@ The Barbecue Chicken Pizza — 42,768.00
 
 The California Chicken Pizza — 41,409.50
 
+Business Insight: These three pizza types were the highest revenue generators in the overall ranking.
+
 
 
 
