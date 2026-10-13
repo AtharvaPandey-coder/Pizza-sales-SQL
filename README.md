@@ -127,6 +127,12 @@ Findings:
 
 Business Insight: Veggie and Supreme ranked highest in the query results, followed by Classic and Chicken. These results can help compare sales across pizza categories.
 
+10. Which pizza had the highest listed price?
+
+Finding: The Greek Pizza had the highest listed price at 35.95.
+
+Business Insight: Identifying the highest-priced pizza helps distinguish premium-priced products from the rest of the menu. A higher price does not necessarily mean higher total revenue.
+
 
 
 
