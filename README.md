@@ -72,6 +72,14 @@ The Thai Chicken Pizza — 2,371
 
 Business Insight: These five pizza types had the highest order quantities in the query results. This information can help the business plan inventory and manage customer demand.
 
+5. Which pizza size appeared most frequently in the order details?
+
+Finding: The Large (L) size ranked first, with 18,526 order-detail records in the displayed results.
+
+Business Insight: Large pizzas appeared most frequently according to this query's metric.
+
+Note: This result counts order-detail records, not the total number of pizza units sold by size.
+
 
 
 
