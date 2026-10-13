@@ -56,6 +56,21 @@ The California Chicken Pizza — 41,409.50
 
 Business Insight: These three pizza types were the highest revenue generators in the overall ranking.
 
+4. Which five pizza types were ordered in the highest quantities?
+
+Findings:
+
+The Classic Deluxe Pizza — 2,453
+
+The Barbecue Chicken Pizza — 2,432
+
+The Hawaiian Pizza — 2,422
+
+The Pepperoni Pizza — 2,418
+
+The Thai Chicken Pizza — 2,371
+
+Business Insight: These five pizza types had the highest order quantities in the query results. This information can help the business plan inventory and manage customer demand.
 
 
 
