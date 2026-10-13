@@ -96,6 +96,12 @@ Other notable results included:
 
 Business Insight: The results indicate strong order activity around lunchtime and early evening. These periods can be investigated further for staffing and operational planning.
 
+7. What was the average number of pizzas ordered per day?
+
+Finding: The query returned an average of 138.47 pizzas per day.
+
+Business Insight: This average provides a daily demand benchmark that can support inventory and preparation planning.
+
 
 
 
