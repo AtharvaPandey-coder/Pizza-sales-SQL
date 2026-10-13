@@ -145,6 +145,11 @@ The California Chicken Pizza — 41,409.50
 
 Business Insight: Within the Chicken category, The Thai Chicken Pizza generated the highest revenue, followed by The Barbecue Chicken Pizza and The California Chicken Pizza. This analysis helps identify the top-performing pizza types within each category and supports category-specific business decisions.
 
+12. What was the cumulative revenue by the end of the sales period?
+
+Finding: By December 31, 2015, cumulative revenue reached approximately 817,860.
+
+Business Insight: Cumulative revenue tracks how sales revenue builds over time and provides an overview of the business's overall sales performance throughout the period.
 
 
 
