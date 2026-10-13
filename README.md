@@ -192,8 +192,7 @@ Build a dashboard to present important sales metrics.
 👨‍💻 Author
 
 Atharva Pandey
-
-Aspiring Data Science and AI/ML professional building practical projects to strengthen data analysis and problem-solving skills.
+**Aspiring Data Science and AI/ML professional** building practical projects to strengthen technical skills, data analysis, and problem-solving abilities.
 
 
 
