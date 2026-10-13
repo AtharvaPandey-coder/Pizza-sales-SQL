@@ -116,6 +116,17 @@ Chicken: 6 pizza types
 
 Business Insight: Supreme and Veggie had the highest number of pizza types, with 9 each, while Chicken had the fewest, with 6 pizza types.
 
+9. Which pizza category had the highest total quantity sold?
+
+Findings:
+
+- Veggie: 446,166
+- Supreme: 446,166
+- Classic: 396,592
+- Chicken: 297,444
+
+Business Insight: Veggie and Supreme ranked highest in the query results, followed by Classic and Chicken. These results can help compare sales across pizza categories.
+
 
 
 
