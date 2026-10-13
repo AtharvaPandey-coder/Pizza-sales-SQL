@@ -151,6 +151,49 @@ Finding: By December 31, 2015, cumulative revenue reached approximately 817,860.
 
 Business Insight: Cumulative revenue tracks how sales revenue builds over time and provides an overview of the business's overall sales performance throughout the period.
 
+🧠 SQL Concepts Practiced
+
+SELECT, WHERE, GROUP BY, and ORDER BY
+
+Aggregate functions: SUM(), COUNT(), and AVG()
+
+Joins across related tables
+
+Subqueries and derived tables
+
+Date and time functions
+
+Revenue calculations
+
+Window functions such as RANK()
+
+Cumulative revenue analysis
+
+Business-oriented data analysis
+
+📈 Key Learnings
+
+Through this project, I practiced using SQL to analyze relational sales data, calculate revenue, identify popular products, examine ordering patterns, and answer business questions.
+
+This project strengthened my understanding of SQL joins, aggregations, ranking, and analytical queries for business problem-solving.
+
+🚀 Future Improvements
+
+Validate category-level quantity calculations.
+
+Add the verified top three revenue-generating pizzas for every category.
+
+Analyze monthly and daily sales trends.
+
+Create visualizations using Python or Power BI.
+
+Build a dashboard to present important sales metrics.
+
+👨‍💻 Author
+
+Atharva Pandey
+
+Aspiring Data Science and AI/ML professional building practical projects to strengthen data analysis and problem-solving skills.
 
 
 
