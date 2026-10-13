@@ -44,6 +44,16 @@ Finding: The total revenue was 817,860.05 in the dataset's currency units.
 
 Business Insight: Total revenue provides an overview of sales performance before accounting for business costs and expenses.
 
+3. Which three pizza types generated the highest revenue overall?
+
+Findings:
+
+The Thai Chicken Pizza — 43,434.25
+
+The Barbecue Chicken Pizza — 42,768.00
+
+The California Chicken Pizza — 41,409.50
+
 
 
 
